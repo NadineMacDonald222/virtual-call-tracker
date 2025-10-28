@@ -22,22 +22,7 @@ A Django project to track calls, view them via an interactive dashboard, and acc
 - Bootstrap 5  
 - JavaScript (for dashboard filters)  
 
----
 
-## Screenshots
-
-> Replace these with actual screenshots from your project
-
-### Dashboard
-![Dashboard](calltracker/calltracker/screenshots/Dashboard.png)
-
-### Admin Panel
-![Admin](calltracker/calltracker/screenshots/Admin.png)
-
-### API
-![API](calltracker/calltracker/screenshots/api_calls.png)
-
----
 
 # Getting Started
 
