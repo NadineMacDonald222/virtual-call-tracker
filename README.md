@@ -29,13 +29,13 @@ A Django project to track calls, view them via an interactive dashboard, and acc
 > Replace these with actual screenshots from your project
 
 ### Dashboard
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](calltracker/screenshots/Dashboard.png)
 
 ### Admin Panel
-![Admin](screenshots/Admin.png)
+![Admin](calltracker/screenshots/Admin.png)
 
 ### API
-![API](screenshots/api_calls.png)
+![API](calltracker/screenshots/api_calls.png)
 
 ---
 
@@ -43,7 +43,7 @@ A Django project to track calls, view them via an interactive dashboard, and acc
 
 ### 1. Clone the repository
 
-git clone https://github.com/YourUsername/virtual-call-tracker.git
+git clone https://github.com/NadineMacDonald222/virtual-call-tracker.git
 cd virtual-call-tracker
 
 ### 2. Create & activate a virtual environment
