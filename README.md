@@ -29,13 +29,13 @@ A Django project to track calls, view them via an interactive dashboard, and acc
 > Replace these with actual screenshots from your project
 
 ### Dashboard
-![Dashboard](calltracker/screenshots/Dashboard.png)
+![Dashboard](calltracker/calltracker/screenshots/Dashboard.png)
 
 ### Admin Panel
-![Admin](calltracker/screenshots/Admin.png)
+![Admin](calltracker/calltracker/screenshots/Admin.png)
 
 ### API
-![API](calltracker/screenshots/api_calls.png)
+![API](calltracker/calltracker/screenshots/api_calls.png)
 
 ---
 
